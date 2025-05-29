@@ -1,4 +1,4 @@
-class Solution:
+class Solution:#LeetcodeProblem
     def maxProfit(self, prices: List[int]) -> int:
       l,r=0,1
       maxp=0
